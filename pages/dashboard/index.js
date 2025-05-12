@@ -7,7 +7,7 @@
  import axios from 'axios'; // Keep axios for fetching overview data
 
  // Import the DashboardLayout component
- import DashboardLayout from '../components/DashboardLayout';
+ import DashboardLayout from '../../components/DashboardLayout';
 
  // Remove jwt-decode import - it's in the layout
  // import jwt_decode from 'jwt-decode';
